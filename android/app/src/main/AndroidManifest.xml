@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.idiatech.confessions">
+    package="com.idiatech.daily_confessions">
    <application
         android:label="Daily Confessions"
         android:name="${applicationName}"
